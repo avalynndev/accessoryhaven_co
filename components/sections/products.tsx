@@ -17,43 +17,83 @@ const product: Props[] = [
   {
     id: 1,
     image:
-      "https://imagedelivery.net/d1yqQAIaphrLYkMc6qUfkA/6a1e6112-0fed-465a-62bf-a8c4ae185100/624x624",
-    title: "Accessibility",
-    stock: false,
+      "https://scontent.xx.fbcdn.net/v/t69.46293-2/448311551_796266262569286_3372917492360803892_n.?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=NRN3fHp9GD0Q7kNvgG-09dT&_nc_ht=scontent.xx&oh=03_Q7cD1QHepugS26DvgIh1Wb2GodVB-xc_96NrvfuZHMOQsewBVA&oe=666E0CA5",
+    title: "Tinted Red Bracelet",
+    stock: true,
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum quas provident cum",
-    price: 19.99,
+      "Customizable bracelet",
+    price: 60,
   },
   {
     id: 2,
     image:
-      "https://imagedelivery.net/d1yqQAIaphrLYkMc6qUfkA/6a1e6112-0fed-465a-62bf-a8c4ae185100/624x624",
-    title: "Community",
-    stock: false,
+      "https://scontent.xx.fbcdn.net/v/t69.46293-2/448322962_1434006670816399_576771067582134662_n.?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=BJvsfsT-jf0Q7kNvgGOw3FD&_nc_ht=scontent.xx&oh=03_Q7cD1QGYb6ngutf1BIWCCV7W52MhA4dXhFRGwDQWgdBQgpewdA&oe=666E3824,
+    title: "Tinted purple bracelet",
+    stock: true,
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum quas provident cum",
-    price: 19.99,
+      "Customizable bracelet",
+    price: 60,
   },
   {
     id: 3,
     image:
-      "https://imagedelivery.net/d1yqQAIaphrLYkMc6qUfkA/6a1e6112-0fed-465a-62bf-a8c4ae185100/624x624",
-    title: "Scalability",
-    stock: false,
+      "https://scontent.xx.fbcdn.net/v/t69.46293-2/448277977_195845506957586_2281739624671715658_n.?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=yXheTvScjp4Q7kNvgHPmNSN&_nc_ht=scontent.xx&oh=03_Q7cD1QGR9UJdZP_KxGMs04Yk2scKAZnWEg-V7CT4iGI8EZ9G_w&oe=666E2E8E",
+    title: "Tinted Orange Bracelet",
+    stock: true,
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum quas provident cum",
-    price: 19.99,
+      "Customizable bracelet",
+    price: 60,
   },
   {
     id: 4,
     image:
-      "https://imagedelivery.net/d1yqQAIaphrLYkMc6qUfkA/6a1e6112-0fed-465a-62bf-a8c4ae185100/624x624",
-    title: "Gamification",
+      "https://scontent.xx.fbcdn.net/v/t69.46293-2/448395217_478972598135897_6007743532773814209_n.?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=aDNesBfvUQMQ7kNvgEqnc74&_nc_ht=scontent.xx&oh=03_Q7cD1QGQjncxhIm82ABc7B6UxUetJ8G6PSzxWBNOWFSsklxLXQ&oe=666E315D",
+    title: "Tinted Blue Bracelet",
     stock: true,
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum quas provident cum",
-    price: 19.99,
+      "Customizable bracelet",
+    price: 60,
   },
+  {
+    id: 5,
+    image:
+      "https://scontent.xx.fbcdn.net/v/t69.46293-2/448390392_999780931876084_7337356023028465861_n.?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=QFGoVCEOiOkQ7kNvgFvsyKS&_nc_ht=scontent.xx&oh=03_Q7cD1QFUnQDe2qUOl6GFwbG_-Nw1hr2Wenxn3OEhgEdn_YMs5Q&oe=666E195A",
+    title: "Tinted Green Bracelet",
+    stock: true,
+    description:
+      "Customizable bracelet",
+    price: 60,
+  },
+  {
+    id: 6,
+    image:
+      "https://scontent.xx.fbcdn.net/v/t69.46293-2/448360484_403996739306180_837451128373318465_n.?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=qndXSv09vYsQ7kNvgH_o2_1&_nc_ht=scontent.xx&oh=03_Q7cD1QFNS2AhlvpCQ8RQxt0UH-Qi7qBzw0_EIfuv8r0qcLodSA&oe=666E4B0B",
+    title: "Tinted Pink Bracelet",
+    stock: true,
+    description:
+      "Customizable bracelet",
+    price: 60,
+  },
+  {
+    id: 7,
+    image:
+      "https://scontent.xx.fbcdn.net/v/t69.46293-2/448387760_809546137908849_898771647936327366_n.?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=izUKFxEIHpYQ7kNvgEXIlq-&_nc_ht=scontent.xx&oh=03_Q7cD1QGlUAsRYGBD_FnKtpnssOlcW3Xu5YSuQ91Z-u7IlvuboQ&oe=666E31B0",
+    title: "Tinted Black Bracelet",
+    stock: true,
+    description:
+      "Customizable bracelet",
+    price: 60,
+  },
+  {
+    id: 8,
+    image:
+      "https://scontent.xx.fbcdn.net/v/t69.46293-2/444760757_844431954408238_6594840944773875241_n.?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=OzIHlo86avUQ7kNvgGuSS7m&_nc_ht=scontent.xx&oh=03_Q7cD1QEoK_9c2LmgSf4N-KmfS9QZXtG7104oqklac8xSTCeB2w&oe=666E435D,
+    title: "Tinted Pink Bracelet",
+    stock: true,
+    description:
+      "Customizable bracelet",
+    price: 60,
+  }
 ];
 
 export const ProductSection = () => {
