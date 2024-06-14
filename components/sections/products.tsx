@@ -27,7 +27,7 @@ const product: Props[] = [
   {
     id: 2,
     image:
-      "https://scontent.xx.fbcdn.net/v/t69.46293-2/448322962_1434006670816399_576771067582134662_n.?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=BJvsfsT-jf0Q7kNvgGOw3FD&_nc_ht=scontent.xx&oh=03_Q7cD1QGYb6ngutf1BIWCCV7W52MhA4dXhFRGwDQWgdBQgpewdA&oe=666E3824,
+      "https://scontent.xx.fbcdn.net/v/t69.46293-2/448322962_1434006670816399_576771067582134662_n.?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=BJvsfsT-jf0Q7kNvgGOw3FD&_nc_ht=scontent.xx&oh=03_Q7cD1QGYb6ngutf1BIWCCV7W52MhA4dXhFRGwDQWgdBQgpewdA&oe=666E3824",
     title: "Tinted purple bracelet",
     stock: true,
     description:
@@ -87,7 +87,7 @@ const product: Props[] = [
   {
     id: 8,
     image:
-      "https://scontent.xx.fbcdn.net/v/t69.46293-2/444760757_844431954408238_6594840944773875241_n.?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=OzIHlo86avUQ7kNvgGuSS7m&_nc_ht=scontent.xx&oh=03_Q7cD1QEoK_9c2LmgSf4N-KmfS9QZXtG7104oqklac8xSTCeB2w&oe=666E435D,
+      "https://scontent.xx.fbcdn.net/v/t69.46293-2/444760757_844431954408238_6594840944773875241_n.?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=OzIHlo86avUQ7kNvgGuSS7m&_nc_ht=scontent.xx&oh=03_Q7cD1QEoK_9c2LmgSf4N-KmfS9QZXtG7104oqklac8xSTCeB2w&oe=666E435D",
     title: "Tinted Pink Bracelet",
     stock: true,
     description:
