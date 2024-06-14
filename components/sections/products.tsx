@@ -93,7 +93,27 @@ const product: Props[] = [
     description:
       "Customizable bracelet",
     price: 60,
-  }
+  },
+  { 
+    id: 9,
+    image:
+      "https://scontent.xx.fbcdn.net/v/t69.46293-2/448307338_1402175897154259_7778591086699078487_n.?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-ALOXomrlr0Q7kNvgHSwPCL&_nc_ht=scontent.xx&oh=03_Q7cD1QGM2-YM72FM6Un-53JYjoc85m6tsILQu2FaQcUrf81rDQ&oe=666E3B62",
+    title: "Silver Heart Bracelet",
+    stock: true,
+    description:
+      "Customizable bracelet",
+    price: 100,
+  },
+  {
+    id: 10,
+    image:
+      "https://scontent.xx.fbcdn.net/v/t69.46293-2/448395217_1231347108056749_7856246538123009955_n.?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=U94Dj6M24i4Q7kNvgHfMA6A&_nc_ht=scontent.xx&oh=03_Q7cD1QHty7B8JyP82MikaTFxUoxSHukM4y5ZxlXi7SK7GqTtGg&oe=666E46E9",
+    title: "Silver Cube Bracelet",
+    stock: true,
+    description:
+      "Customizable bracelet",
+    price: 100,
+  },
 ];
 
 export const ProductSection = () => {
